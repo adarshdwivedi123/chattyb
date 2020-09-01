@@ -1,2 +1,0 @@
-# chattyb
-chat app
